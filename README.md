@@ -1,8 +1,8 @@
-- 👋 oi eu sou @Diegosilva2005
-- 👀estou interessado em saber criar jogos e ganhar dinheiro na internet ...
-- 🌱   estou estudando no tancredo neves...
-- 💞️estou colaborando com os projeos de pemsamento computacional ...
-- 📫 você pode me encomtrar@diegojumanje no instagran
+- 👋 Olá, eu sou Diego Silva!
+- 👀 Estou interessado em ganhar dinehiro na internet e aprender a programar jogos.
+- 🌱 Estou estudando no Colégio Cívico Militar Tancredo de Almeida Neves.
+- 💞️ Meus hobbies são praticar desenho, realismo, anime e pintura. 
+- 📫 Você pode me encontrar em @diegojumanje no Instagram ✨
 
 <!---
 Diegosilva2005/Diegosilva2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
